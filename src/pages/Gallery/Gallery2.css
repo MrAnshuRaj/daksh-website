@@ -1,0 +1,46 @@
+/* Custom Swiper Styles for Glassmorphic Theme */
+.gallery-swiper {
+  --swiper-pagination-color: #84cc16;
+  --swiper-pagination-bullet-inactive-color: rgba(132, 204, 22, 0.3);
+  --swiper-pagination-bullet-size: 8px;
+  --swiper-pagination-bullet-horizontal-gap: 6px;
+}
+
+.gallery-swiper .swiper-pagination {
+  bottom: 10px !important;
+}
+
+.gallery-swiper .swiper-pagination-bullet {
+  background: rgba(132, 204, 22, 0.4);
+  border: 1px solid rgba(132, 204, 22, 0.6);
+  transition: all 0.3s ease;
+}
+
+.gallery-swiper .swiper-pagination-bullet-active {
+  background: #84cc16;
+  box-shadow: 0 0 10px rgba(132, 204, 22, 0.6);
+  transform: scale(1.2);
+}
+
+.gallery-swiper .swiper-cube-shadow {
+  background: rgba(132, 204, 22, 0.2) !important;
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #84cc16, #65a30d);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #a3e635, #84cc16);
+}

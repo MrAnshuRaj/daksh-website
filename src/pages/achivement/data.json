@@ -1,0 +1,74 @@
+[ 
+    {
+        "id": "1",
+        "title": "BAJA SAE INDIA 2023:",
+        "description": "- In 2023, Team DAKSH continued their legacy with a commendable Rank of 29th out of 114 participating teams and maintained their leadership among NITs, DTU, & NSUT by achieving the 1st Position.",
+        "imgUrl": "/achivement/img16.webp"
+    },
+    {
+        "id": "2",
+        "title": "BAJA SAE INDIA 2022:",
+        "description": "- In 2022, their commitment to technological innovation and engineering excellence was evident as they secured the 4th Position among all NITs in CAE Evaluation Event and achieved the 38th Position out of 138 teams in the Virtual Dynamics Event.",
+        "imgUrl": "/achivement/img5.webp"
+    },
+    {
+        "id": "3",
+        "title": "BAJA SAE INDIA 2021:",
+        "description": "- Maintaining their standing among top-tier teams, they achieved an Overall 4th Position among all NITs in 2021, showcasing their consistent excellence.",
+        "imgUrl": "/achivement/img6.webp"
+    },
+    {
+        "id": "4",
+        "title": "BAJA SAE INDIA 2020:",
+        "description": "- In a remarkable feat, Team DAKSH showcased the resilience of their vehicle by completing 15 laps of a rough and rigorous track without any breakdown for four continuous and enervating hours in 2020.",
+        "imgUrl": "/achivement/img10.webp"
+    },
+    {
+        "id": "5",
+        "title": "BAJA SAE INDIA 2019:",
+        "description": "- In 2019, Team DAKSH continued their environmental commitment, securing the 1st Position in the Go Green Event, and maintained a strong standing with the 12th Position in Baja Virtuals.",
+        "imgUrl": "/achivement/img9.webp"
+    },
+    {
+        "id": "6",
+        "title": "BAJA SAE INDIA 2018:",
+        "description": "- The team showcased their prowess in the virtual realm, securing the 1st Position in Baja Virtuals, and were recognized for their environmental consciousness with the Runner Up in the Go Green Event.",
+        "imgUrl": "/achivement/img12.webp"
+    },
+    {
+        "id": "7",
+        "title": "BAJA SAE INDIA 2016:",
+        "description": "- In the same year's BAJA SAE INDIA, Team DAKSH demonstrated their endurance capabilities with an impressive 3rd Position in the Endurance Race and showcased cost-effective design with the 12th Position in the Cost Event.",
+        "imgUrl": "/achivement/img15.webp"
+    },
+    {
+        "id": "8",
+        "title": "BAJA STUDENT INDIA 2016:",
+        "description": "- Their relentless pursuit of design excellence was evident as they achieved the 5th Position in the Design Event at BAJA STUDENT INDIA in 2016.",
+        "imgUrl": "/achivement/img13.webp"
+    },
+    {
+        "id": "9",
+        "title": "BAJA STUDENT INDIA 2015:",
+        "description": "- In 2015, Team DAKSH not only secured the 4th Position in the Acceleration Event but also demonstrated their salesmanship by attaining the 2nd Position in Sales and financial prudence with the 3rd Position in Cost.",
+        "imgUrl": "/achivement/img17.webp"
+    },
+    {
+        "id": "10",
+        "title": "BAJA SAE INDIA 2011:",
+        "description": "- Continuing their environmental commitment, the team received the prestigious Go Green Award and achieved an impressive 3rd Position in Endurance, showcasing their sustainable approach and endurance capabilities.",
+        "imgUrl": "/achivement/img3.webp"
+    },
+    {
+        "id": "11",
+        "title": "BAJA SAE INDIA 2010:",
+        "description": "- In 2010, Team DAKSH showcased exceptional prowess by winning the Best Engineering Design Award and securing the 1st Position in the Least Emission Category at BAJA SAE INDIA, setting the stage for their future achievements.",
+        "imgUrl": "/achivement/img4.webp"
+    },
+    {
+        "id": "12",
+        "title": "BAJA SAE SOUTH AFRICA 2010:",
+        "description": "- The same year, their commitment to safety was recognized with the Safest Vehicle Award at BAJA SAE SOUTH AFRICA, highlighting their dedication to vehicle integrity.",
+        "imgUrl": "/achivement/img2.webp"
+    }
+]
